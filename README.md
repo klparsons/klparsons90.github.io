@@ -1,2 +1,2 @@
 # klparsons90.github.com
-Website test
+This is just a trial run of constructing a static website on Github
