@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    padding: auto;
 }
 nav ul, footer ul {
     font-family:'Raleway';
@@ -40,7 +41,7 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style-type: katakana-iroha;
 }
 
 img {
